@@ -34,59 +34,17 @@ For Software:
 For Hardware:
 - Laptop/Desktop Computer
 
-### Implementation
-For Software:
-# Installation
-[commands]
-
-# Run
-[commands]
-
 ### Project Documentation
 For Software:
 
 # Screenshots (Add at least 3)
-![WhatsApp Image 2025-01-26 at 11 28 08_0e342a0a](https://github.com/user-attachments/assets/f91e5fd0-2e60-4533-b34f-8ed2619caf5d)
-
-
-# Diagrams
-![Workflow](Add your workflow/architecture diagram here)
-*Add caption explaining your workflow*
-
-For Hardware:
-
-# Schematic & Circuit
-![Circuit](Add your circuit diagram here)
-*Add caption explaining connections*
-
-![Schematic](Add your schematic diagram here)
-*Add caption explaining the schematic*
-
-# Build Photos
-![Team](Add photo of your team here)
-
-
-![Components](Add photo of your components here)
-*List out all components shown*
-
-![Build](Add photos of build process here)
-*Explain the build steps*
-
-![Final](Add photo of final product here)
-*Explain the final build*
-
-### Project Demo
-# Video
-[Add your demo video link here]
-*Explain what the video demonstrates*
-
-# Additional Demos
-[Add any extra demo materials/links]
+![image](https://github.com/user-attachments/assets/78625231-78fa-478e-9163-9c03984d7437)
+![image](https://github.com/user-attachments/assets/5a044d6e-3853-4300-8aaa-f0987612d2c3)
 
 ## Team Contributions
-- [Name 1]: [Specific contributions]
-- [Name 2]: [Specific contributions]
-- [Name 3]: [Specific contributions]
+- Ayesha S : frontend 
+- Afreena Shaju : backend
+- Aparna S S : DATABASE
 
 ---
 Made with ❤️ at TinkerHub
