@@ -1,39 +1,38 @@
-# [Project Name] 🎯
+#CONNECT
 
 
 ## Basic Details
-### Team Name: [Name]
+### Team Name: 21
 
 
 ### Team Members
-- Member 1: [Name] - [College]
-- Member 2: [Name] - [College]
-- Member 3: [Name] - [College]
+- Member 1: AYESHA S - LBSITW
+- Member 2: AFREENA SHAJU - LBSITW
+- Member 3: APARNA S S - LBSITW
 
 ### Hosted Project Link
-[mention your project hosted project link here]
+(https://github.com/ayes2003/connect.git)
 
 ### Project Description
-[2-3 lines about what your project does]
+Connect is an app to connect people with their loved ones. It aims on maintaining the good and engaged relationsip even though their apart from each other. For explains family who are apart from each other can share their calender then the app will analyse their schedule, and come up a plan for user to meet up with his family. Many other engaging activities are also available.
 
 ### The Problem statement
-[What ridiculous problem are you solving?]
+The people who are apart find it every hard to maintain their relationships with their loved ones.
 
 ### The Solution
-[How are you solving it? Keep it fun!]
+An app having interactive activities like game night, movie night, moments, calender sharing,
+chat bot etc. It make the user feel like their loved one is besides them. 
 
 ## Technical Details
 ### Technologies/Components Used
 For Software:
-- [Languages used]
-- [Frameworks used]
-- [Libraries used]
-- [Tools used]
+- HTML-CSS JAVASCRIPT
+- Express.js, NestJS
+- Mongoose, dotenv, cors, body_parser
+- Node.js, MongoDB, Postman
 
 For Hardware:
-- [List main components]
-- [List specifications]
-- [List tools required]
+- Laptop/Desktop Computer
 
 ### Implementation
 For Software:
