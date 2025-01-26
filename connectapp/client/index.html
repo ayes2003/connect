@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Connect</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <div id="app">
+        <h1>Welcome to Connect</h1>
+
+        <div id="registration-form">
+            <h2>Register</h2>
+            <input type="text" id="username" placeholder="Username" />
+            <input type="email" id="email" placeholder="Email" />
+            <input type="password" id="password" placeholder="Password" />
+            <button id="registerBtn">Register</button>
+        </div>
+
+        <div id="login-form">
+            <h2>Login</h2>
+            <input type="email" id="loginEmail" placeholder="Email" />
+            <input type="password" id="loginPassword" placeholder="Password" />
+            <button id="loginBtn">Login</button>
+        </div>
+
+        <div id="userProfile">
+            <h2>Your Profile</h2>
+            <p id="userBio"></p> 
+            {/* Add more profile information here */}
+        </div>
+
+        <div id="postForm">
+            <h2>Create Post</h2>
+            <textarea id="postContent" placeholder="Write something..."></textarea>
+            <button id="postBtn">Post</button>
+        </div>
+
+        <div id="postList"></div>
+
+        <div id="chat">
+            <h2>Chat</h2>
+            <div id="chatMessages"></div>
+            <input type="text" id="chatInput" placeholder="Type your message...">
+        </div>
+
+        <div id="messages"></div> 
+
+    </div>
+    <script src="https://cdn.socket.io/4.5.4/socket.io.js"></script> 
